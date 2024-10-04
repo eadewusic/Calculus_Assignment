@@ -31,3 +31,10 @@ We implemented a method to compute the area under the curve of the equation to e
 - numpy for handling mathematical and numeric operations.
 - sympy for symbolic mathematics and derivative calculations.
 - matplotlib for plotting the graphs.
+
+## Contributors
+- **Abimbola Ronald**
+- **Justice Chukwuonye**
+- **Jordan Nguepi**
+- **Eunice Adewusi**
+- **Glen Miracle**
