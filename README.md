@@ -26,6 +26,7 @@ We implemented a method to compute the area under the curve of the equation to e
 ### Tools We Used:
 #### Python 3.x
 ### Libraries:
-#### numpy for handling mathematical operations.
+#### numpy for handling mathematical and numeric operations.
 #### sympy for symbolic mathematics and derivative calculations.
 #### matplotlib for plotting the graphs.
+###
