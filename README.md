@@ -23,10 +23,11 @@ On our graph, we added clear and distinguishable markers to highlight the global
 This will ensure that these critical points are easily identifiable on the plot.
 7. Finding the Area Under the Curve:
 We implemented a method to compute the area under the curve of the equation to enhance the overall analysis.
+
 ### Tools We Used:
-#### Python 3.x
+- Python 3.x
+
 ### Libraries:
-#### numpy for handling mathematical and numeric operations.
-#### sympy for symbolic mathematics and derivative calculations.
-#### matplotlib for plotting the graphs.
-###
+- numpy for handling mathematical and numeric operations.
+- sympy for symbolic mathematics and derivative calculations.
+- matplotlib for plotting the graphs.
